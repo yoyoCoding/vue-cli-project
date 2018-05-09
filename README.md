@@ -14,6 +14,8 @@ others -- no </br>
 
 4.npm install
 
-5.starting my exercise!
+5.npm run dev
+
+6.starting my exercise!
 
 ps:已经安装好vue-cli,项目脚手架文件过多,这里只上传自己的练习文件

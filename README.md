@@ -2,13 +2,13 @@
 vue-cli studying
 
 ## 安装
-1.npm install vue-cli -g
+1.npm install vue-cli -g <br/>
 test:
 vue -V
 
-2.vue init webpack my_project_name
-install vue-router -- yes
-others -- no
+2.vue init webpack my_project_name </br>
+install vue-router -- yes  </br>
+others -- no </br>
 
 3.cd my_project_name
 
